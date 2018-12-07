@@ -1,9 +1,5 @@
-# 17 Registro de Servidores Públicos de la Administración Pública Federal que intervienen en procedimientos de contrataciones públicas, el otorgamiento de licencias, permisos, concesiones y autorizaciones, así como en la enajenación de bienes muebles de la administración pública federal y en la asignación y emisión de dictámenes en materia de avalúos y justipreciación de rentas (RENIRESP)
-Registro de los servidores públicos de la Administración Pública Federal que interviene en procedimientos de contrataciones públicas, el otorgamiento de licencias, etc.
-
-## ¿Dónde están los datos?
-+ [csv] Servidores públicos que intervienen en contrataciones en la Administración Pública Federal al mes de septiembre de 2015: http://datosabiertos.funcionpublica.gob.mx/datosabiertos/reniresp/reniresphistorico.csv
-
+# 17 Registro de servidores públicos que intervienen en contrataciones públicas
+Registro de Servidores Públicos de la Administración Pública Federal que intervienen en procedimientos de contrataciones públicas, el otorgamiento de licencias, permisos, concesiones y autorizaciones, así como en la enajenación de bienes muebles de la administración pública federal y en la asignación y emisión de dictámenes en materia de avalúos y justipreciación de rentas (RENIRESP).
 
 
 ## ¿Qué campos contiene?
@@ -79,7 +75,8 @@ Oct | El servidor público fue reportado por la Institución como participante e
 Nov | El servidor público fue reportado por la Institución como participante en los procesos descritos durante noviembre. 0 no fue reportado.
 Dic | El servidor público fue reportado por la Institución como participante en los procesos descritos durante diciembre. 0 no fue reportado.
 
-Diccionario de Datos: http://datosabiertos.funcionpublica.gob.mx/datosabiertos/reniresp/diccionario_reniresp.xlsx
-
 ## ¿Quién otorga el dataset?
 Secretaría de la Función Pública
+
+## Referencia
+https://datos.gob.mx/busca/dataset/registro-de-servidores-publicos-que-intervienen-en-contrataciones-publicas
